@@ -1,0 +1,17 @@
+test_and_BGD_1000_iterations_with_gaussian_basis_function_0.1_lr:
+	w_0 = 0.5600160878291915
+	w_1 = 0.8387175360173834
+	w_2 = -0.8945401969027631
+	RMS = 0.07617236735307292
+
+test_and_SGD_1000_iterations_with_gaussian_basis_function_0.1_lr:
+	w_0 = 0.6136568593629471
+	w_1 = 0.8022259994534873
+	w_2 = -0.8846340759095672
+	RMS = 0.08903546008888479
+
+test_and_MLE_1000_iterations_with_gaussian_basis_function_0.1_lr:
+	w_0 = 0.5582245956473079
+	w_1 = 0.8345758279127222
+	w_2 = -0.8969190415053565
+	RMS = 0.07928460601014468
